@@ -1,1 +1,3 @@
-# ImagePictureMagnification
+# jQuery 比较好用的图片放大功能，也是在本人博客上使用的。
+
+下载下来根据index.hmtl文件中的实例使用即可。
